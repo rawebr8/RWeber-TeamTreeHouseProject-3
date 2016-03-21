@@ -196,6 +196,7 @@ button {
 
      .dsktop {
       float: left;
+      clear: both;   
       width: 145px;
       display: block;
       text-align: left;
